@@ -34,10 +34,10 @@ Algo sobre mí : Me gusta el kpop y nadar
 **Qué hacer:** El párrafo de abajo tiene **cuatro errores**. Corrígelos todos en un solo commit.  
 **Commit:** `fix(convenciones): corrige errores en descripción de Git`
 
-> Git es un sistema de control de versiones creado en 2005 por Linus Torvalds 
+> Git es un sistema de control de versiones creado en 2005 por Linus Torvalds
 > para reemplazar a BitKeeper, que era un programa de licencia y dejó de darse gratis al proyecto Linux.
 > Cada commit guarda una fotografía de todos los archivos del repositorio en ese momento,
-> identificada con un hash SHA-1 único. Para subir cambios al servidor usamos `git push`. 
+> identificada con un hash SHA-1 único. Para subir cambios al servidor usamos `git push`.
 
 ---
 
@@ -46,9 +46,9 @@ Algo sobre mí : Me gusta el kpop y nadar
 **Qué hacer:** Escribe tres cosas concretas que aprendiste en esta sesión.  
 **Commit:** `docs(aprendizaje): agrega notas de la sesión`
 
-1. 
-2. 
-3. 
+1. Aprendí sobre cual fue la razón por la que crearon Git
+2. Sobre el nombre único que se le da a un commit, que es el SHA-1
+3. ¿Qué es un hash? y los estados de un archivo
 
 ---
 
