@@ -59,12 +59,12 @@ Algo sobre mí : Me gusta el kpop y nadar
 
 | Comando | ¿Qué hace? |
 |---------|------------|
-| `git init` | |
-| `git status` | |
-| `git add .` | |
-| `git commit -m "..."` | | 
-| `git log --oneline` | |
-| `git push` | |
+| `git init` | |Sirve para decirle a Git, que vea los archivos creados y vea sus cambios, una antesala para crear un repositorio
+| `git status` | |Muestra que archivos ya están respaldados por Git y cuales aún no se suben o tienen cambios
+| `git add .` | | Agrega el archivo que se va a subir al commit
+| `git commit -m "..."` | | Crea el commit con un código único, así como de los archivos
+| `git log --oneline` | |Sirve para ver el historial de commits verticalmente, en texto
+| `git push` | | Sube los archivos añadidos anteriormente a el repositorio remoto
 
 ---
 
