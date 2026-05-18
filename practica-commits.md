@@ -11,9 +11,9 @@ Edita → `git add practica-commits.md` → `git commit -m "..."`
 **Commit:** `feat(perfil): agrega presentación de [tu nombre]`
 
 ```
-Nombre     : 
-GitHub     : 
-Algo sobre mí : 
+Nombre     : Fatima Elvira Rosales Tecuapetla
+GitHub     : https://github.com/Faty1108 
+Algo sobre mí : Me gusta el kpop y nadar
 ```
 
 ---
@@ -33,9 +33,9 @@ Algo sobre mí :
 **Commit:** `fix(convenciones): corrige errores en descripción de Git`
 
 > Git es un sistema de control de versiones creado en 2005 por Linus Torvalds
-> para reemplazar a SubVersion, que era de código cerrado y dejó de darse gratis al proyecto Linux.
+> para reemplazar a BitKeeper, que era un programa de licencia y dejó de darse gratis al proyecto Linux.
 > Cada commit guarda una fotografía de todos los archivos del repositorio en ese momento,
-> identificada con un hash MD5 único. Para subir cambios al servidor usamos `git pull`.
+> identificada con un hash SHA-1 único. Para subir cambios al servidor usamos `git push`.
 
 ---
 
@@ -60,7 +60,7 @@ Algo sobre mí :
 | `git init` | |
 | `git status` | |
 | `git add .` | |
-| `git commit -m "..."` | |
+| `git commit -m "..."` | | 
 | `git log --oneline` | |
 | `git push` | |
 
