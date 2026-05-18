@@ -1,5 +1,5 @@
 # Mi proyecto Web
 **Alumna:** Fatima Elvira Rosales Tecuapetla
-**Color favorito:** Rosa y morado
+**Color favorito:** Morado
 **Apodo**: Faty
 **Cantante favorito:** BTS, Stray Kids
