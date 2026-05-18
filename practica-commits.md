@@ -23,7 +23,9 @@ Algo sobre mí : Me gusta el kpop y nadar
 **Qué hacer:** Agrega al menos tres cosas que sabes hacer (no tienen que ser de programación).  
 **Commit:** `feat(habilidades): agrega lista de habilidades`
 
-- 
+- Me gusta nadar
+- Me agrada conocer nuevas personas
+- Me gusta la saga de "El cementerio de los libros olvidados"
 
 ---
 
