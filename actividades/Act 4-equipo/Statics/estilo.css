@@ -6,12 +6,17 @@
         font-family: 'JandaQuirkyGirl';
         src: url('./Fonts/Jack\ in\ the\ Box.ttf');
     }
+
 body{
     background-color: rgb(164, 65, 100);
     color: rgb(241, 203, 216);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-
+@media screen and (min-width: 700px){
+    body{
+        background-color: rgb(70, 32, 92);
+    }
+}
 #head{
     text-align: center;
     font-family: 'MexicanTequila' , sans-serif;
@@ -29,8 +34,15 @@ table, th, td{
     font-size: 20px;
     content: 5%;
 }
-
-
+#notita{
+    position: fixed;
+    padding: 10px;
+    background-color: rgb(241, 203, 216);
+    border-radius: 20%;
+    border: 3.3px solid rgb(100, 16, 46);
+    left: 69%;
+    color: black;
+}
 
 #Luis
 {
