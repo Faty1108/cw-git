@@ -1,0 +1,80 @@
+@font-face {
+        font-family: 'MexicanTequila';
+        src: url('./Fonts/MexicanTequila.ttf');
+    }
+@font-face {
+        font-family: 'JandaQuirkyGirl';
+        src: url('./Fonts/Jack\ in\ the\ Box.ttf');
+    }
+body{
+    background-color: rgb(164, 65, 100);
+    color: rgb(241, 203, 216);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#head{
+    text-align: center;
+    font-family: 'MexicanTequila' , sans-serif;
+    color: rgb(100, 16, 46);
+}
+
+#body{
+    font-family: 'JandaQuirkyGirl';
+    color: black;
+}
+
+table, th, td{
+    border: 4px outset rgba(12, 150, 188, 0.549);
+    background-color: rgb(241, 203, 216);
+    font-size: 20px;
+    content: 5%;
+}
+
+
+
+#Luis
+{
+    background-color: red;
+}
+#Luis:hover
+{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
+}
+
+#Dante
+{
+    background-color: blue;
+    color: white;
+}
+#Dante:hover{
+    background-color: rgb(255, 255, 255);
+    color: blue;
+}
+
+#Fátima
+{
+    background-color: purple;
+    color: white;
+}
+#Fátima:hover{
+    background-color: white;
+    color: purple;
+}
+#Viridiana
+{
+    background-color: blue;
+    color: white;
+}
+#Viridiana:hover{
+    background-color: rgb(255, 255, 255);
+    color: blue;
+}
+#Gerardo
+{
+    background-color: orange;
+}
+#Gerardo:hover{
+    background-color: rgb(0, 0, 0);
+    color: orange;
+}
